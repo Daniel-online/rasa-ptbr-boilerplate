@@ -1,5 +1,14 @@
 version: "3.1"
 nlu:
+- intent: venda
+  examples: |
+    -O que você vende?
+    -Quanto custa?
+    -Quanto é?
+    -qto?
+    -Preço
+    -Faixa de preço
+
 - intent: cumprimentar
   examples: |
     - olá

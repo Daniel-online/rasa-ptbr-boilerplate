@@ -120,6 +120,9 @@ responses:
       Foi um prazer te ajudar!
       Quando surgir alguma dúvida, volte aqui!
       Até mais!
+  - text: |
+      Até mais tarde!
+      Espero que me mande mensagem em breve :)
   utter_tudo_bem:
   - text: |
       Tudo bem, obrigada! Em que posso te ajudar?
